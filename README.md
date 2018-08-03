@@ -1,6 +1,6 @@
 # Okami – Adaptive Color Schemes
 
-A set of dark and light color schemes named after Japanese deities.
+A collection of dark and light color schemes named after Japanese deities.
 
 [Fork on Github](https://github.com/rayraegah/okami) | [Report a bug or request a feature](https://github.com/rayraegah/okami/issues) | [Contribute](https://github.com/rayraegah/okami/pulls)
 
@@ -51,16 +51,16 @@ git clone https://github.com/dracula/sublime.git "Okami"
 
 Go to Preferences -> Color Scheme -> User and select one of the themes listed below
 
-1.  Amaterasu
-2.  Hachiman
-3.  Tsukiyomi
-4.  Susano
+```
+Amaterasu
+Hachiman
+Tsukiyomi
+Susano
+```
 
 ## Naming guidelines
 
-If you create and distribute a derivative color scheme, please give your color scheme a unique and name that does not directly include "Okami – Adaptive Color Scheme", "Amaterasu", "Tsukiyomi", "Hachiman", "Susano" (or a close variant of these) in the main project title, color scheme name, repo name or Package Control name.
-
-This is to avoid confusion :)
+If you create and distribute a derivative color scheme, please give your color scheme a unique and name that does not directly include "Okami – Adaptive Color Schemes", "Amaterasu", "Tsukiyomi", "Hachiman", "Susano" (or a close variant of these) in the main project title, color scheme name, repo name or Package Control name.
 
 ## License
 
