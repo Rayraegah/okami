@@ -225,7 +225,8 @@
         {
             "name": "Invalid",
             "scope": "invalid",
-            "background": "var(red)"
+            "background": "var(red)",
+            "foreground": "#fff"
         },
         {
             "name": "Quoted String",
