@@ -8,10 +8,13 @@ A collection of dark and light color schemes named after Japanese deities.
 
 ### Dark color schemes
 
-**Tsukiyomi** uses true solarized dark colors scheme and named after the _god of the moon_.
+**Tsukiyomi** uses true solarized dark color scheme and named after the _god of the moon_.
 ![Screenshot Tsukiyomi Color Scheme](./assets/tsukiyomi.png)
 
-**Susano** borrows from cobalt color scheme and named after the _god of storms_.
+**Suijin** borrows from cobalt color scheme and named after the _god of water_.
+![Screenshot Susano Color Scheme](./assets/suijin.png)
+
+**Susano** uses hashed color scheme and named after the _god of storms_.
 ![Screenshot Susano Color Scheme](./assets/susano.png)
 
 ### Light color schemes
@@ -19,7 +22,7 @@ A collection of dark and light color schemes named after Japanese deities.
 **Amaterasu** uses true solarized light colors scheme and named after the _goddess of the sun_.
 ![Screenshot Amaterasu Color Scheme](./assets/amaterasu.png)
 
-**Hachiman** borrows from celeste color scheme and named after the _god of water_.
+**Hachiman** uses hashed color scheme and named after the _god of war_.
 ![Screenshot Hachiman Color Scheme](./assets/hachiman.png)
 
 ## Installation
@@ -56,6 +59,7 @@ Amaterasu
 Hachiman
 Tsukiyomi
 Susano
+Suijin
 ```
 
 ## Naming guidelines
