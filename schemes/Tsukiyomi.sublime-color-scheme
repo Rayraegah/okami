@@ -547,8 +547,13 @@
         },
         {
             "name": "JSON keys in array in dictionary",
-            "scope": "meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.key.json string.quoted.double.json",
+            "scope": "meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.key.json string.quoted.double.json",
             "foreground": "var(blue)"
         },
+        {
+            "name": "JSON keys in dictionary in dictionary",
+            "scope": "meta.structure.array.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.key.json string.quoted.double.json",
+            "foreground": "var(green)"
+        }
     ]
 }
