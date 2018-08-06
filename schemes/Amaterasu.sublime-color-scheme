@@ -32,7 +32,7 @@
         "background": "var(base3)",
         "caret": "var(base02)",
         "invisibles": "var(base1)",
-        "line_highlight": "var(base2)",
+        "line_highlight": "var(base01)",
         "selection": "color(var(base1) blend(var(base2) 15%)",
         "selection_border": "color(var(base1) blend(var(base2) 30%)",
         "inactive_selection": "var(base2)",
