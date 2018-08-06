@@ -56,7 +56,7 @@
         },
         {
             "scope": "entity.name - entity.name.tag - entity.name.section",
-            "foreground": "var(orange)",
+            "foreground": ["var(orange)", "var(red)"],
             "font_style": "italic"
         },
         {

@@ -516,6 +516,16 @@
             "foreground": "var(base0)"
         },
         {
+            "name": "Oject key unquoted",
+            "scope": "constant.other.object.key string.unquoted.label",
+            "foreground": "var(base1)"
+        },
+        {
+            "name": "New keyword",
+            "scope": "keyword.operator.new",
+            "font_style": "bold"
+        },
+        {
             "name": "JSON values in array in dictionary",
             "scope": "meta.structure.array.json meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json",
             "foreground": "var(base1)"
