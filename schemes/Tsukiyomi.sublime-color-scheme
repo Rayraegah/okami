@@ -25,14 +25,17 @@
         "base3":     "#fdf6e3", // 97 [2]
         ////////////////////////// special background tones
         "error":     "#6e2e32", // red
+        "line":      "#000000", // black
     },
     "globals":
     {
+        "accent": "var(red)",
         "foreground": "var(base0)",
         "background": "var(base03)",
-        "caret": "var(base2)",
+        "caret": "var(red)",
         "invisibles": "var(base01)",
-        "line_highlight": "var(base1)",
+        "line_highlight": "color(var(base02) blend(var(line) 45%)",
+        "gutter_foreground": "var(base01)",
         "selection": "color(var(base01) blend(var(base02) 15%)",
         "selection_border": "color(var(base01) blend(var(base02) 30%)",
         "inactive_selection": "var(base02)",
@@ -48,7 +51,8 @@
         "bracket_contents_options": "underline",
         "bracket_contents_foreground": "var(blue)",
         "tags_options": "stippled_underline",
-        "tags_foreground": "var(magenta)"
+        "tags_foreground": "var(magenta)",
+        "selection_corner_style": "round"
     },
     "rules":
     [
